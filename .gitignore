@@ -1,0 +1,19 @@
+# R session files
+.RData
+.Rhistory
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#API keys
+config/api_keys.yml
+
+# Large data files (not shared in repo)
+*.tif
+*.shp
+*.dbf
+*.shx
+*.prj
+*.gpkg
